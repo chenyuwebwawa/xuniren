@@ -1,1 +1,4 @@
-unzip archives/sample.zip -d xuniren
+- name: Unzip file
+  run: |
+    unzip live2d_model.zip
+ 
